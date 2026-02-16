@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import ClockPage from "./pages/ClockPage";
-import TimerPage from "./pages/TimerPage";
-import AlarmPage from "./pages/AlarmPage";
-import Navbar from "./components/Navbar";
+import ClockPage from "./pages/clockPage";
+import TimerPage from "./pages/timerPage";
+import AlarmPage from "./pages/alarmPage";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
