@@ -1,4 +1,4 @@
-import DigitalClock from "../components/DigitalClock";
+import DigitalClock from "../components/Digitalclock";
 
 export default function ClockPage() {
   return (
