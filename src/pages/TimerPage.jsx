@@ -1,4 +1,4 @@
-import CountdownTimer from "../components/CountdownTimer";
+import CountdownTimer from "../components/countdowntimer";
 
 export default function TimerPage() {
   return (

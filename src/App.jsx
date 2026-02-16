@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ClockPage from "./pages/clockPage";
 import TimerPage from "./pages/timerPage";
 import AlarmPage from "./pages/alarmPage";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
