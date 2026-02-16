@@ -9,9 +9,9 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<ClockPage />} />
-        <Route path="/timer" element={<TimerPage />} />
-        <Route path="/alarm" element={<AlarmPage />} />
+        <Route path="/" element={<clockpage />} />
+        <Route path="/timer" element={<timerpage />} />
+        <Route path="/alarm" element={<alarmpage />} />
       </Routes>
     </BrowserRouter>
   );
